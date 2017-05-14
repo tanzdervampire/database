@@ -1,0 +1,15 @@
+{
+  "name": "tdv-crawler",
+  "version": "1.0.0",
+  "description": "Crawls tanz-der-vampire.de for cast lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ingo Bürk",
+  "license": "MIT",
+  "dependencies": {
+    "crawler": "^1.0.5",
+    "moment": "^2.18.1"
+  }
+}
