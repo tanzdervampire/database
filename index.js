@@ -136,7 +136,7 @@ const ACTORS = {
 
 var crawler = new Crawler({
     /* Delay in milliseconds between requests */
-    rateLimit: 100,
+    rateLimit: 50,
 
     callback: function (err, res, done) {
         if (err) {
