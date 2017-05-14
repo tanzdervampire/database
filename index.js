@@ -176,11 +176,10 @@ var crawler = new Crawler({
             }
 
             /* … and the same for actors due to a lot of typos */
+            actors = actors.split(/\s*,\s*/);
             actors = actors.map((actor) => {
                 return ACTORS[actor] || actor;
             });
-
-            actors = actors.split(/\s*,\s*/);
 
             data["roles"][role] = (data["roles"][role] + 1) || 1;
             actors.forEach((actor) => {
