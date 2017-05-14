@@ -33,7 +33,7 @@ var crawler = new Crawler({
 
         var $ = res.$;
         
-        var $castList = $("td[align='right']:contains('Graf von Krolock')").parent().parent();
+        var $castList = $("td[colspan='3']:contains('Besetzung am')").parent().parent();
         var lastRole;
         $castList.children().each(function (i, el) {
             var $el = $(el);
