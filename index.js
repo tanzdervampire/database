@@ -44,25 +44,22 @@ var crawler = new Crawler({
             }
 
             var role = $($el.children()[0]).text().trim() || lastRole,
-                actor = $($el.children()[2]).text().trim();
+                actors = $($el.children()[2]).text().trim();
+
+            actors = actors.split(/\s*,\s*/);
 
             data["roles"][role] = data["roles"][role] + 1 || 0;
-            data["actors"][actor] = data["actors"][actor] + 1 || 0;
+            actors.forEach((actor) => {
+                data["actors"][actor] = data["actors"][actor] + 1 || 0;
+            });
 
             data["shows"][showDate] = data["shows"][showDate] || {};
             data["shows"][showDate][show] = data["shows"][showDate][show] || {};
+            data["shows"][showDate][show][role] = data["shows"][showDate][show][role] || [];
 
-            if (typeof data["shows"][showDate][show][role] === "undefined") {
-                data["shows"][showDate][show][role] = actor;
-            } else {
-                if (typeof data["shows"][showDate][show][role] === "string") {
-                    var previous = data["shows"][showDate][show][role];
-                    data["shows"][showDate][show][role] = [previous];
-                }
+            data["shows"][showDate][show][role].push(actors);
 
-                data["shows"][showDate][show][role].push(actor);
-            }
-
+            /* Memorize the last role we've seen as sometimes the role isn't repeated. */
             lastRole = role;
         });
 
