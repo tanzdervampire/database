@@ -46,11 +46,16 @@ var crawler = new Crawler({
             var role = $($el.children()[0]).text().trim() || lastRole,
                 actors = $($el.children()[2]).text().trim();
 
+            /* Let's normalize the role a bit. */
+            if (role === "Solotänzerin" || role === "Solotänzerinnen") {
+                role = "Solotänzer";
+            }
+
             actors = actors.split(/\s*,\s*/);
 
-            data["roles"][role] = data["roles"][role] + 1 || 0;
+            data["roles"][role] = (data["roles"][role] + 1) || 1;
             actors.forEach((actor) => {
-                data["actors"][actor] = data["actors"][actor] + 1 || 0;
+                data["actors"][actor] = (data["actors"][actor] + 1) || 1;
             });
 
             data["shows"][showDate] = data["shows"][showDate] || {};
