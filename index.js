@@ -61,6 +61,7 @@ const ACTORS = {
     "Bourg": "Ian Jon Bourg",
     "Robert. D. Marx": "Robert D. Marx",
     "Marx": "Robert D. Marx",
+    "marx": "Robert D. Marx",
     "Bulsing": "Rutger Bulsing",
     "Bühring": "Andreas Bühring",
     "Baltus": "Cornelius Baltus",
@@ -119,19 +120,24 @@ const ACTORS = {
     "Danielle Venemann": "Danielle Veneman",
     "AdrianWerum": "Adrian Werum",
     "Ben Kaslauskas": "Ben Kazlauskas",
+    "Kaslauskas": "Ben Kazlauskas",
     "Veenendaal": "Jurko van Veenendaal",
     "Reichwein": "Tim Reichwein",
     "Tscherne": "Gregor Tscherne",
     "Thrower": "John Thrower",
     "Thorén": "Anna Thorén",
     "Dtephanie Tschöppe": "Stephanie Tschöppe",
+    "Tschöppe": "Stephanie Tschöppe",
     "John  Thrower": "John Thrower",
     "Aleksander di Capri": "Alexander di Capri",
+    "Alexander  di Capri": "Alexander di Capri",
+    "Alex di Capri": "Alexander di Capri",
     "Jerzy Jezke": "Jerzy Jeszke",
     "Alexander Di Capri": "Alexander di Capri",
     "Kim Boysen": "Kym Boysen",
     "Stefan Poslovskik": "Stefan Poslovski",
-    "Franziska Foster": "Franziska Forster"
+    "Franziska Foster": "Franziska Forster",
+    "Julie Newamn": "Julie Newman"
 };
 
 var crawler = new Crawler({
