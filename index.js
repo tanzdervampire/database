@@ -1,6 +1,6 @@
 var Crawler = require("crawler");
 var moment = require("moment");
-const util = require('util');
+var fs = require("fs");
 
 const DATE_FORMAT = "DD.MM.YYYY";
 
@@ -211,10 +211,7 @@ var crawler = new Crawler({
 });
 
 crawler.on("drain", function () {
-    console.log(util.inspect(data, {
-        showHidden: false,
-        depth: null
-    }));
+    fs.writeFile("data.log", JSON.stringify(data, null, 4));
 });
 
 function toUrl(date, show) {
