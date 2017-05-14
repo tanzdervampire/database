@@ -153,10 +153,12 @@ var crawler = new Crawler({
             show = ["Abend", "Nachmittag"][+res.request.headers["Show"]];
 
         console.log("Received response for " + showDate + " / " + show);
+
         if (res.body.includes("Zum gewählten Zeitpunkt lief")
             || res.body.includes("Für dieses Datum liegen leider keine Informationen zur Besetzung vor")
             || res.body.includes("An diesem Tag fand keine Vorstellung statt")) {
 
+            console.log("Ignoring because there is no cast information.");
             return done();
         }
 
@@ -199,6 +201,7 @@ var crawler = new Crawler({
             data["shows"][showDate][show] = data["shows"][showDate][show] || {};
             data["shows"][showDate][show][role] = data["shows"][showDate][show][role] || [];
 
+            console.log(showDate + " | " + show + " :: " + role + " = " + actors);
             data["shows"][showDate][show][role] = data["shows"][showDate][show][role].concat(actors);
 
             /* Memorize the last role we've seen as sometimes the role isn't repeated. */
@@ -210,7 +213,13 @@ var crawler = new Crawler({
 });
 
 crawler.on("drain", function () {
-    fs.writeFile("data.log", JSON.stringify(data, null, 4));
+    fs.writeFile("data.log", JSON.stringify(data, null, 4), (err) => {
+        if (err) {
+            throw err;
+        }
+
+        console.log("File written.");
+    });
 });
 
 function toUrl(date, show) {
