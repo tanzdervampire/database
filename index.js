@@ -89,12 +89,8 @@ function toUrl(date, show) {
     return url;
 }
 
-// TODO FIXME
-//const startDate = moment("17.03.2000", "DD.MM.YYYY");
-//const endDate = moment("01.01.2007", "DD.MM.YYYY");
-
-const startDate = moment("27.03.2001", DATE_FORMAT);
-const endDate = moment("30.03.2001", DATE_FORMAT);
+const startDate = moment("17.03.2000", "DD.MM.YYYY");
+const endDate = moment("01.01.2007", "DD.MM.YYYY");
 
 var currentDate = startDate;
 while (currentDate.diff(endDate) < 0) {
