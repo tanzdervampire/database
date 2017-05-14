@@ -184,7 +184,11 @@ var crawler = new Crawler({
             /* … and the same for actors due to a lot of typos */
             actors = actors.split(/\s*,\s*/);
             actors = actors.map((actor) => {
-                return ACTORS[actor] || actor;
+                if (typeof ACTORS[actor] !== "undefined") {
+                    return ACTORS[actor];
+                }
+
+                return actor;
             });
 
             data["roles"][role] = (data["roles"][role] + 1) || 1;
