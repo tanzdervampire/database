@@ -141,8 +141,7 @@ const ACTORS = {
 };
 
 var crawler = new Crawler({
-    /* Delay in milliseconds between requests */
-    rateLimit: 50,
+    maxConnections: 5,
 
     callback: function (err, res, done) {
         if (err) {
