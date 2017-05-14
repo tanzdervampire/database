@@ -200,7 +200,7 @@ var crawler = new Crawler({
             data["shows"][showDate][show] = data["shows"][showDate][show] || {};
             data["shows"][showDate][show][role] = data["shows"][showDate][show][role] || [];
 
-            data["shows"][showDate][show][role].push(actors);
+            data["shows"][showDate][show][role] = data["shows"][showDate][show][role].concat(actors);
 
             /* Memorize the last role we've seen as sometimes the role isn't repeated. */
             lastRole = role;
