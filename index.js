@@ -1,11 +1,18 @@
 var Crawler = require("crawler");
 var moment = require("moment");
+const util = require('util');
 
 const DATE_FORMAT = "DD.MM.YYYY";
 
+var data = {
+    "roles": {},
+    "actors": {},
+    "shows": {}
+};
+
 var crawler = new Crawler({
     /* Delay in milliseconds between requests */
-    rateLimit: 1000,
+    rateLimit: 100,
 
     callback: function (err, res, done) {
         if (err) {
@@ -13,33 +20,61 @@ var crawler = new Crawler({
             return done();
         }
 
-        var showDate = moment(res.request.headers["ShowDate"], DATE_FORMAT),
-            show = res.request.headers["Show"];
+        var showDate = res.request.headers["ShowDate"],
+            show = ["Abend", "Nachmittag"][+res.request.headers["Show"]];
 
+        console.log("Received response for " + showDate + " / " + show);
         if (res.body.includes("Zum gewählten Zeitpunkt lief")
             || res.body.includes("Für dieses Datum liegen leider keine Informationen zur Besetzung vor")
             || res.body.includes("An diesem Tag fand keine Vorstellung statt")) {
 
-            console.log("No cast found for " + showDate.format(DATE_FORMAT) + " / " + show);
             return done();
         }
 
         var $ = res.$;
         
         var $castList = $("td[align='right']:contains('Graf von Krolock')").parent().parent();
+        var lastRole;
         $castList.children().each(function (i, el) {
             var $el = $(el);
+
+            /* Ignore if it doesn't have three <td>s */
             if ($el.children().length != 3) {
                 return;
             }
 
-            var role = $($el.children()[0]).text(),
-                actor = $($el.children()[2]).text();
-            console.log(showDate.format(DATE_FORMAT) + " / " + show + " – " + role + " = " + actor);
+            var role = $($el.children()[0]).text().trim() || lastRole,
+                actor = $($el.children()[2]).text().trim();
+
+            data["roles"][role] = data["roles"][role] + 1 || 0;
+            data["actors"][actor] = data["actors"][actor] + 1 || 0;
+
+            data["shows"][showDate] = data["shows"][showDate] || {};
+            data["shows"][showDate][show] = data["shows"][showDate][show] || {};
+
+            if (typeof data["shows"][showDate][show][role] === "undefined") {
+                data["shows"][showDate][show][role] = actor;
+            } else {
+                if (typeof data["shows"][showDate][show][role] === "string") {
+                    var previous = data["shows"][showDate][show][role];
+                    data["shows"][showDate][show][role] = [previous];
+                }
+
+                data["shows"][showDate][show][role].push(actor);
+            }
+
+            lastRole = role;
         });
 
         done();
     }
+});
+
+crawler.on("drain", function () {
+    console.log(util.inspect(data, {
+        showHidden: false,
+        depth: null
+    }));
 });
 
 function toUrl(date, show) {
