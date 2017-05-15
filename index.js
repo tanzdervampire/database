@@ -137,7 +137,8 @@ const ACTORS = {
     "Kim Boysen": "Kym Boysen",
     "Stefan Poslovskik": "Stefan Poslovski",
     "Franziska Foster": "Franziska Forster",
-    "Julie Newamn": "Julie Newman"
+    "Julie Newamn": "Julie Newman",
+    "Bühríng": "Andreas Bühring"
 };
 
 var crawler = new Crawler({
@@ -180,6 +181,9 @@ var crawler = new Crawler({
             /* Let's normalize the role a bit. */
             if (role === "Solotänzerin" || role === "Solotänzerinnen") {
                 role = "Solotänzer";
+            }
+            if (role === "Prof. Abronsius") {
+                role = "Professor Abronsius";
             }
 
             /* … and the same for actors due to a lot of typos */
