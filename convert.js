@@ -1,4 +1,5 @@
 var fs = require("fs");
+var moment = require("moment");
 
 const MAPPING = {
     "Abend": "Soirée",
@@ -17,6 +18,7 @@ Object.keys(shows).forEach((date) => {
     Object.keys(shows[date]).forEach((show) => {
         out[date].push({
             "date": date,
+            "unix": moment(date, "DD.MM.YYYY").unix(),
             "place": "Stuttgart",
             "time": MAPPING[show],
             "cast": shows[date][show],
