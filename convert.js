@@ -11,14 +11,16 @@ var shows = JSON.parse(data)["shows"];
 
 var out = {};
 Object.keys(shows).forEach((date) => {
-    if(typeof out[date] === "undefined") {
-        out[date] = [];
+    var unix = moment(date, "DD.MM.YYYY").unix();
+
+    if(typeof out[unix] === "undefined") {
+        out[unix] = [];
     }
 
     Object.keys(shows[date]).forEach((show) => {
-        out[date].push({
+        out[unix].push({
             "date": date,
-            "unix": moment(date, "DD.MM.YYYY").unix(),
+            "unix": unix,
             "place": "Stuttgart",
             "time": MAPPING[show],
             "cast": shows[date][show],
