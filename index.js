@@ -7,7 +7,8 @@ const DATE_FORMAT = "DD.MM.YYYY";
 var data = {
     "roles": {},
     "actors": {},
-    "shows": {}
+    "shows": {},
+    "times": {},
 };
 
 /* A mapping of typo'd actor names to the correct one. */
@@ -164,8 +165,23 @@ var crawler = new Crawler({
         }
 
         var $ = res.$;
-        
-        var $castList = $("td[colspan='3']:contains('Besetzung am')").parent().parent();
+
+        var $container = $("td[colspan='3']:contains('Besetzung am')");
+
+        data["times"][showDate] = data["times"][showDate] || {};
+        var match = $($container.children()[0]).text().trim().match(/um\s+(\d\d:\d\d)\s+Uhr/);
+        if (match && match.length >= 2) {
+            var time = match[1];
+            var hour = +time.split(/:/)[0];
+            if ((hour >= 18 && show === 'Nachmittag') || (hour < 18 && show === 'Abend')) {
+                console.log('Ignoring ' + show + 's-Show at ' + time);
+                return done();
+            }
+
+            data["times"][showDate][show] = time;
+        }
+
+        var $castList = $container.parent().parent();
         var lastRole;
         $castList.children().each(function (i, el) {
             var $el = $(el);
