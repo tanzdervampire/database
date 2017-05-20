@@ -2,7 +2,7 @@ const fs = require('fs');
 const moment = require('moment');
 const sql = require('sql.js');
 
-var raw = JSON.parse(fs.readFileSync('data.log', 'utf8'));
+var raw = JSON.parse(fs.readFileSync('crawled.json', 'utf8'));
 let db;
 
 /* Set up tables */
@@ -183,7 +183,7 @@ Object.keys(shows).forEach((i) => {
     let data = db.export();
     let buffer = new Buffer(data);
 
-    fs.writeFileSync('data.db', buffer, (err) => {
+    fs.writeFileSync('crawled.sqlite', buffer, (err) => {
         if (err) {
             throw err;
         }

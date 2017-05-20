@@ -233,7 +233,7 @@ var crawler = new Crawler({
 });
 
 crawler.on("drain", function () {
-    fs.writeFile("data.log", JSON.stringify(data, null, 4), (err) => {
+    fs.writeFile("crawled.json", JSON.stringify(data, null, 4), (err) => {
         if (err) {
             throw err;
         }
