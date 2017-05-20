@@ -1,0 +1,9 @@
+This repository creates the database. It consists of multiple scripts:
+
+* crawler.js crawls tanz-der-vampire.de and spits out crawled.json with all grabbed information.
+* crawler2sqlite.js takes crawled.json and converts it into the sqlite database stored as crawled.sqlite.
+* generate.js adds further entries to the existing crawled.sqlite database and spits out out as db.sqlite.
+
+Running crawler.js should not ever be necessary again since the data can be taken from crawled.json instead.
+crawler2sqlite.js must be run if the database design changes since it sets up the database.
+generate.js should be run whenever new information has been added.
