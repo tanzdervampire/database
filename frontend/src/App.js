@@ -49,7 +49,7 @@ class App extends Component {
         }).then((response) => {
             return response.json();
         }).then((actors) => {
-            this.setState({ names: actors });
+            this.setState({ names: Object.keys(actors) });
         });
     }
 
