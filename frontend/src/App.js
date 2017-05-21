@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
+import levenshtein from 'fast-levenshtein';
 
 import TextField from 'material-ui/TextField';
 import AutoComplete from 'material-ui/AutoComplete';
@@ -29,7 +30,6 @@ const MULTI_ROLES = [
     'Gesangsensemble',
 ];
 
-// TODO Custom filter (Levenstein)?
 class App extends Component {
 
     state = {
@@ -69,6 +69,11 @@ class App extends Component {
                 'location': this.state.currentShow['location'],
                 'cast': this.state.currentCast,
             });
+
+            let stringified = JSON.stringify(shows);
+            stringified.substring(1, stringified.length - 1);
+            stringified += ',';
+
             this.setState({
                 shows: shows,
                 currentCast: {},
@@ -80,7 +85,7 @@ class App extends Component {
                     'type': null,
                     'location': '',
                 },
-                output: JSON.stringify(shows, null, 4),
+                output: stringified,
             });
             this.firstInput.focus();
             return;
@@ -135,10 +140,19 @@ class App extends Component {
         }
     };
 
-    filter = (searchText, key) => {
-        const lcText = searchText.toLowerCase();
-        const lcKey = key.toLowerCase();
-        return lcKey.includes(lcText);
+    filter = (_searchText, _key) => {
+        /* To lowercase and remove all diacritics. */
+        const searchText = _searchText.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+        const key = _key.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+
+        /* For a direct substring match, we immediately allow it. */
+        if (key.includes(searchText)) {
+            return true;
+        }
+
+
+        /* Fall back to Levenshtein */
+        return levenshtein.get(searchText, key) <= 2;
     };
 
     renderCurrentCast() {
