@@ -110,7 +110,10 @@ class App extends Component {
 
         currentCast[currentRole] = currentCast[currentRole] || [];
         currentCast[currentRole].push(chosenRequest);
-        this.setState({ currentCast: currentCast });
+        this.setState({
+            currentCast: currentCast,
+            names: this.state.names.concat([chosenRequest]),
+        });
 
         if (MULTI_ROLES.indexOf(currentRole) === -1) {
             this.transitionToNextRole();
