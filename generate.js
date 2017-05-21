@@ -354,6 +354,138 @@ const entries = [
             ]
         }
     },
+    {
+        "date": "23.04.2016",
+        "time": "19:30",
+        "location": "Berlin",
+        "cast": {
+            "Dirigent": [
+                "Robert Emery"
+            ],
+            "Graf von Krolock": [
+                "Mark Seibert"
+            ],
+            "Sarah": [
+                "Veronica Appeddu"
+            ],
+            "Alfred": [
+                "Tom van der Ven"
+            ],
+            "Professor Abronsius": [
+                "Victor Petersen"
+            ],
+            "Chagal": [
+                "Nicolas Tenerani"
+            ],
+            "Magda": [
+                "Merel Zeeman"
+            ],
+            "Rebecca": [
+                "Yvonne Köstler"
+            ],
+            "Herbert": [
+                "Milan van Waardenburg"
+            ],
+            "Koukol": [
+                "Paolo Bianca"
+            ],
+            "Tanzsolisten": [
+                "Kevin Schmid",
+                "Máté Gyenei",
+                "Alessandra Bizzarri"
+            ],
+            "Gesangssolisten": [
+                "Sander van Wissen",
+                "Kirill Zolygin"
+            ],
+            "Tanzensemble": [
+                "Joe Nolan",
+                "Stefan Mosonyi",
+                "Nicola Trazzi",
+                "Veronika Enders",
+                "Katie Allday",
+                "Vicki Douglas",
+                "Nicole Ollio"
+            ],
+            "Gesangsensemble": [
+                "Torsten Ankert",
+                "Noah Wili",
+                "Pascal Höwing",
+                "Marina Maniglio",
+                "Anja Wendzel",
+                "Karolin Konert",
+                "Fleur Alders",
+                "Pamela Zottele"
+            ]
+        }
+    },
+    {
+        "date": "24.04.2016",
+        "time": "18:00",
+        "location": "Berlin",
+        "cast": {
+            "Dirigent": [
+                "Robert Emery"
+            ],
+            "Graf von Krolock": [
+                "Mark Seibert"
+            ],
+            "Sarah": [
+                "Veronica Appeddu"
+            ],
+            "Alfred": [
+                "Tom van der Ven"
+            ],
+            "Professor Abronsius": [
+                "Victor Petersen"
+            ],
+            "Chagal": [
+                "Nicolas Tenerani"
+            ],
+            "Magda": [
+                "Merel Zeeman"
+            ],
+            "Rebecca": [
+                "Yvonne Köstler"
+            ],
+            "Herbert": [
+                "Milan van Waardenburg"
+            ],
+            "Koukol": [
+                "Paolo Bianca"
+            ],
+            "Tanzsolisten": [
+                "Kevin Schmid",
+                "Máté Gyenei",
+                "Alessandra Bizzarri"
+            ],
+            "Gesangssolisten": [
+                "Sander van Wissen",
+                "Kirill Zolygin"
+            ],
+            "Tanzensemble": [
+                "Joe Nolan",
+                "Stefan Mosonyi",
+                "Nicola Trazzi",
+                "Veronika Enders",
+                "Katie Allday",
+                "Vicki Douglas",
+                "Nicole Ollio"
+            ],
+            "Gesangsensemble": [
+                "Torsten Ankert",
+                "Noah Wili",
+                "Pascal Höwing",
+                "Marina Maniglio",
+                "Anja Wendzel",
+                "Karolin Konert",
+                "Fleur Alders",
+                "Pamela Zottele"
+            ]
+        }
+    },
+    {"date":"26.04.2016","time":"19:30","location":"Berlin","cast":{"Dirigent":["Robert Emery"],"Graf von Krolock":["Mark Seibert"],"Sarah":["Veronica Appeddu"],"Alfred":["Tom van der Ven"],"Professor Abronsius":["Victor Petersen"],"Chagal":["Nicolas Tenerani"],"Magda":["Merel Zeeman"],"Rebecca":["Yvonne Köstler"],"Herbert":["Milan van Waardenburg"],"Koukol":["Paolo Bianca"],"Tanzsolisten":["Kevin Schmid","Máté Gyenei","Alessandra Bizzarri"],"Gesangssolisten":["Sander van Wissen","Kirill Zolygin"],"Tanzensemble":["Joe Nolan","Stefan Mosonyi","Nicola Trazzi","Veronika Enders","Katie Allday","Vicki Douglas","Nicole Ollio"],"Gesangsensemble":["Torsten Ankert","Noah Wili","Pascal Höwing","Marina Maniglio","Anja Wendzel","Karolin Konert","Samantha Harris-Hughes","Astrid Gollob"]}},
+    {"date":"27.04.2016","time":"18:30","location":"Berlin","cast":{"Dirigent":["Robert Emery"],"Graf von Krolock":["Mark Seibert"],"Sarah":["Veronica Appeddu"],"Alfred":["Tom van der Ven"],"Professor Abronsius":["Victor Petersen"],"Chagal":["Nicolas Tenerani"],"Magda":["Merel Zeeman"],"Rebecca":["Yvonne Köstler"],"Herbert":["Milan van Waardenburg"],"Koukol":["Paolo Bianca"],"Tanzsolisten":["Kevin Schmid","Máté Gyenei","Alessandra Bizzarri"],"Gesangssolisten":["Sander van Wissen","Kirill Zolygin"],"Tanzensemble":["Joe Nolan","Stefan Mosonyi","Nicola Trazzi","Veronika Enders","Katie Allday","Vicki Douglas","Nicole Ollio"],"Gesangsensemble":["Thomas Höfner","Noah Wili","Kevin Hudson","Marina Maniglio","Anja Wendzel","Karolin Konert","Samantha Harris-Hughes","Astrid Gollob"]}},
     /*
     {
         'date': '',
