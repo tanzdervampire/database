@@ -37,7 +37,12 @@ class App extends Component {
 
         currentRole: ROLES[0],
         currentInput: '',
-        currentShow: {},
+        currentShow: {
+            'date': '',
+            'time': '',
+            'type': null,
+            'location': '',
+        },
         currentCast: {},
 
         shows: [],
@@ -72,6 +77,7 @@ class App extends Component {
                 currentShow: {
                     'date': '',
                     'time': '',
+                    'type': null,
                     'location': '',
                 },
                 output: JSON.stringify(shows, null, 4),
