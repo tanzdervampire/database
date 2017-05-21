@@ -30,6 +30,190 @@ const entries = [
             'Dirigent': ['Leif Klinkhardt'],
         },
     },
+    {
+        'date': '02.01.2007',
+        'time': '19:30',
+        'type': null,
+        'location': null,
+        'cast': {
+            'Graf von Krolock': ['Mathias Edenborn'],
+            'Sarah': ['Lucy Scherer'],
+            'Alfred': ['Alexander Klaws'],
+            'Professor Abronsius': ['Mathias Schlung'],
+            'Chagal': ['Ulrich Wiggers'],
+            'Magda': ['Katja Berg'],
+            'Rebecca': ['Maike Katrin Schmidt'],
+            'Herbert': ['Haldor Laegreid'],
+            'Koukol': ['Stefan Büdenbender'],
+            'Tanzsolisten': [
+                'Kym Boyson',
+                'Kevin Hudson',
+                'Vanni Viscusi',
+            ],
+            'Gesangssolisten': [
+                'Philipp Hägeli',
+                'Patric Scott',
+            ],
+            'Tanzensemble': [
+                'Milena Alaze',
+                'Hannah Carter',
+                'Andrew Chadwick',
+                'Tiziana Doneda',
+                'Silvia Lambertoni',
+                'Silvano Marraffa',
+                'Florian Theiler'
+            ],
+            'Gesangsensemble': [
+                'Kati Heidebrecht',
+                'Schirin Kazemi',
+                'Svenja Kühl',
+                'Christina Ogink',
+                'Jessica Oisson-Lantto',
+                'Matthias Stockinger',
+                'Christopher Tölle',
+                'Jakub Wocial'
+            ],
+            'Dirigent': ['Ulrich Talle'],
+        },
+    },
+    {
+        'date': '15.10.2011',
+        'time': '19:30',
+        'type': null,
+        'location': 'Stuttgart',
+        'cast': {
+            'Graf von Krolock': ['Kevin Tarte'],
+            'Sarah': ['Antje Eckermann'],
+            'Alfred': ['Krisha Dalke'],
+            'Professor Abronsius': ['Christian Stadlhofer'],
+            'Chagal': ['Christoph Leszczynski'],
+            'Magda': ['Linda Veenhuizen'],
+            'Rebecca': ['Juliane Bischoff'],
+            'Herbert': ['Jakub Wocial'],
+            'Koukol': ['Stefan Büdenbender'],
+            'Tanzsolisten': [
+                'Pierre Damen',
+                'Paula Ferreira',
+                'Toby Poole'
+            ],
+            'Gesangssolisten': [
+                'Christopher Busse',
+                'Florian Soyka'
+            ],
+            'Tanzensemble': [
+                'Brett Hibberd',
+                'Alan Kelly',
+                'Anna Lopusny',
+                'Sandra Milly',
+                'Judit Szoboszlay',
+                'Lucas Theisen',
+                'Gemma West'
+            ],
+            'Gesangsensemble': [
+                'Laura Greer',
+                'Zoltán Fekete',
+                'Joana Henrique',
+                'Dennis Jankowiak',
+                'Miriam Lotz',
+                'Helen Morris',
+                'Raphaela Pekovsek',
+                'Thomas Schwein'
+            ],
+            'Dirigent': ['Boris Ritter'],
+        },
+    },
+    {
+        'date': '10.11.2012',
+        'time': '19:30',
+        'type': null,
+        'location': 'Berlin',
+        'cast': {
+            'Graf von Krolock': ['Thomas Borchert'],
+            'Sarah': ['Amélie Dobler'],
+            'Alfred': ['Michael Heller'],
+            'Professor Abronsius': ['Veit Schäfermeier'],
+            'Chagal': ['Jerzy Jeszke'],
+            'Magda': ['Linda Veenhuizen'],
+            'Rebecca': ['Claudie Reinhard'],
+            'Herbert': ['Marc Liebisch'],
+            'Koukol': ['Stefan Büdenbender'],
+            'Tanzsolisten': [
+                'Pierre Damen',
+                'Paula Ferreira',
+                'Csaba Nagy'
+            ],
+            'Gesangssolisten': [
+                'Dennis Jankowiak',
+                'Vanni Viscusi'
+            ],
+            'Tanzensemble': [
+                'Kym Boyson',
+                'Zoltán Fekete',
+                'Brett Hibberd',
+                'Alan Kelly',
+                'Anna Lopusny',
+                'Sandra Milly',
+                'Judit Szoboszlay'
+            ],
+            'Gesangsensemble': [
+                'Elke Buyle',
+                'Franz Frickel',
+                'Laura Greer',
+                'Judith Jandl',
+                'Angelina Markiefka',
+                'Silvano Marraffa',
+                'Helen Morris',
+                'Sven Prüwer'
+            ],
+            'Dirigent': ['Christoph Bönecker'],
+        },
+    },
+    {
+        'date': '16.05.2013',
+        'time': '19:30',
+        'type': null,
+        'location': 'Berlin',
+        'cast': {
+            'Graf von Krolock': ['Ivan Ozhogin'],
+            'Sarah': ['Mercedesz Csampai'],
+            'Alfred': ['Tibor Heger'],
+            'Professor Abronsius': ['Jens Janke'],
+            'Chagal': ['Jerzy Jeszke'],
+            'Magda': ['Goele de Raedt'],
+            'Rebecca': ['Anja Wessel'],
+            'Herbert': ['Marc Liebisch'],
+            'Koukol': ['Stefan Büdenbender'],
+            'Tanzsolisten': [
+                'Tibor Nagy',
+                'Judit Szoboszlay',
+                'Matteo Vigna'
+            ],
+            'Gesangssolisten': [
+                'Christopher Busse',
+                'Dennis Jankowiak',
+            ],
+            'Tanzensemble': [
+                'Yves Adang',
+                'Kym Boyson',
+                'Joseph Dockree',
+                'Silvano Marraffa',
+                'Sandra Milly',
+                'Vicky Riddoch',
+                'Nina Ungerer',
+            ],
+            'Gesangsensemble': [
+                'Dorothea Baumann',
+                'Conny Braun',
+                'Franz Frickel',
+                'Stéphane Le Breton',
+                'Anna Lopusny',
+                'Angelina Markiefka',
+                'Sven Prüwer',
+                'Claudie Reinhard',
+            ],
+            'Dirigent': ['Bernd Steixner'],
+        },
+    },
     /*
     {
         'date': '',
