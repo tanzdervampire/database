@@ -340,8 +340,13 @@ let getProductionId = function (date, location) {
             continue;
         }
 
-        const startDate = moment(production[_('START')], 'YYYY-MM-DD HH:mm:ss.SSS');
+        let startDate = moment(production[_('START')], 'YYYY-MM-DD HH:mm:ss.SSS');
         const endDate = moment(production[_('END')], 'YYYY-MM-DD HH:mm:ss.SSS');
+
+        if (location) {
+            /* If we know the location, allow for preview / premiere */
+            startDate = startDate.subtract(2, 'days');
+        }
 
         if (!showDate.isBefore(startDate) && !showDate.isAfter(endDate)) {
             /* If a location was specified we have checked it, so return immediately. */
