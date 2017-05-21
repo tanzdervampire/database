@@ -71,7 +71,7 @@ class App extends Component {
             });
 
             let stringified = JSON.stringify(shows);
-            stringified.substring(1, stringified.length - 1);
+            stringified = stringified.substring(1, stringified.length - 1);
             stringified += ',';
 
             this.setState({
