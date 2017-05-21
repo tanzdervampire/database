@@ -44,13 +44,12 @@ class App extends Component {
     };
 
     componentDidMount() {
-        // TODO load from database
-        this.setState({
-            names: [
-                'Jan Ammann',
-                'Kevin Tarte',
-                'Steve Barton',
-            ]
+        fetch('/api/actors/', {
+            accept: 'application/json',
+        }).then((response) => {
+            return response.json();
+        }).then((actors) => {
+            this.setState({ names: actors });
         });
     }
 
@@ -196,12 +195,14 @@ class App extends Component {
                         onUpdateInput={this.handleCastChange}
                         filter={this.filter}
                         searchText={this.state.currentInput}
+                        maxSearchResults={5}
                         ref={(input) => { this.autoCompleteInput = input; }}
                     />
 
                     {this.renderCurrentCast()}
 
                     <TextField
+                        name="output"
                         multiLine={true}
                         rows={10}
                         fullWidth={true}
