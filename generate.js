@@ -34,8 +34,8 @@ const entries = [
     {
         'date': '',
         'time': '',
-        'type': '',
-        'location': '',
+        'type': null,
+        'location': null,
         'cast': {
             'Graf von Krolock': [''],
             'Sarah': [''],
@@ -46,10 +46,18 @@ const entries = [
             'Rebecca': [''],
             'Herbert': [''],
             'Koukol': [''],
-            'Tanzsolisten': [''],
-            'Gesangssolisten': [''],
-            'Tanzensemble': [''],
-            'Gesangsensemble': [''],
+            'Tanzsolisten': [
+                '',
+            ],
+            'Gesangssolisten': [
+                '',
+            ],
+            'Tanzensemble': [
+                '',
+            ],
+            'Gesangsensemble': [
+                '',
+            ],
             'Dirigent': [''],
         },
     },
@@ -65,10 +73,11 @@ let getProductionId = function (date, location) {
         return dbProductions[0]['columns'].indexOf(column);
     };
 
+    let options = [];
     for (let i = 0; i < dbProductions[0]['values'].length; i++) {
         const production = dbProductions[0]['values'][i];
 
-        if (production[_('LOCATION')] !== location) {
+        if (location && production[_('LOCATION')] !== location) {
             continue;
         }
 
@@ -76,8 +85,24 @@ let getProductionId = function (date, location) {
         const endDate = moment(production[_('END')], 'YYYY-MM-DD HH:mm:ss.SSS');
 
         if (!showDate.isBefore(startDate) && !showDate.isAfter(endDate)) {
-            return production[_('ID')];
+            /* If a location was specified we have checked it, so return immediately. */
+            if (location) {
+                return production[_('ID')];
+            }
+
+            /* If no location was specified, let's first see how many matches we get. */
+            options.push(production[_('ID')]);
         }
+    }
+
+    /* If no location was specified, only return a unique match and reject all other cases. */
+    if (!location) {
+        if (options.length !== 1) {
+            console.log('Could not get production ID for date = ' + date);
+            throw {};
+        }
+
+        return options[0];
     }
 
     console.log('Could not get production ID for date = ' + date);
@@ -108,6 +133,10 @@ entries.forEach((entry) => {
             persons[actor] = id;
         });
     });
+
+    if (!entry['type']) {
+        entry['type'] = ((+entry['time'].split(/:/)[0]) < 18) ? 'Matinée' : 'Soirée';
+    }
 
     /* Now we insert the show. */
     db.run('INSERT INTO SHOW (PRODUCTION_ID, DAY, TIME, TYPE) VALUES (?, ?, ?, ?);', [
