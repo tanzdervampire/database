@@ -71,7 +71,9 @@ class App extends Component {
             });
 
             let stringified = JSON.stringify(shows);
-            stringified = '    ' + stringified.substring(1, stringified.length - 1) + ',';
+            stringified = stringified.substring(1, stringified.length - 1) + ',';
+            // :o super hacky but I don't want to format it myself
+            stringified = stringified.replace(/{"date/g, '\n    {"date');
 
             this.setState({
                 shows: shows,
@@ -86,6 +88,7 @@ class App extends Component {
                 },
                 output: stringified,
             });
+
             this.firstInput.focus();
             return;
         }
