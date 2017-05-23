@@ -73,7 +73,7 @@ const productions = [
         'Theater des Westens',
     ],
     [
-        '2016-10-28' + ' 00:00:00.000',
+        '2016-10-05' + ' 00:00:00.000',
         '2017-01-15' + ' 00:00:00.000',
         'München',
         'Deutsches Theater München',
