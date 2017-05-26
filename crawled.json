@@ -51,21 +51,21 @@
         "Raymond Sepe": 80,
         "Christoph Trauth": 97,
         "Lillemor Spitzer": 97,
-        "Holger Kolodziej": 48,
-        "Marjan Shaki-Pätzoldt": 147,
+        "Holger Kolodziej": 50,
+        "Marjan Shaki-Pätzoldt": 148,
         "Isabella Prühs": 7,
         "Melanie Gemeiner": 20,
         "Frank Rainer Röbling": 5,
         "Natalie Sindern": 24,
         "Debby Boekema": 332,
-        "Stéphane Le Breton": 567,
+        "Stéphane Le Breton": 726,
         "Isabelle Massé": 20,
         "Christina Köb": 4,
         "Alyssa Preston": 374,
         "Kai Helm": 435,
         "Vanni Viscusi": 810,
         "Jonathan Tilley": 62,
-        "Gary Jackman": 69,
+        "Gary Jackman": 70,
         "Cornelius Baltus": 115,
         "Margherita Huisman": 802,
         "James Daniel Frost": 113,
@@ -78,11 +78,9 @@
         "Martha Koltai": 17,
         "Tobias Weis": 35,
         "": 15,
-        "Holger Koldziej": 2,
         "Torie Bedwin": 18,
         "Marianne Tarnowskij": 1,
         "Eric Thomé": 38,
-        "Marjan Shaki-Patzöldt": 1,
         "Espen Nowacki": 62,
         "David Hartland": 45,
         "Jens Janke": 170,
@@ -90,9 +88,8 @@
         "Thomas Klotz": 135,
         "Carsten Bowien": 66,
         "Natascha-Cecillia Hill": 120,
-        "Gary Jackmann": 1,
         "Ian Jon Bourg": 88,
-        "Fredrik Wickerts": 612,
+        "Fredrik Wickerts": 743,
         "Andreas Bühring": 257,
         "Steven Loss": 306,
         "Fawn Arnold": 239,
@@ -106,20 +103,16 @@
         "Matthias Dressel": 116,
         "Dominika Szymanska": 48,
         "Bernhard Wünsch": 229,
-        "Stephanie H. Tschöppe": 186,
         "Mathias Edenborn": 48,
         "Peter Stassen": 43,
         "Torsten Moll": 63,
-        "Stephané Le Breton": 159,
-        "Frederik Wickerts": 131,
         "Christina Brückner": 13,
-        "Fredrik Lexfors": 4,
+        "Fredrik Lexfors": 27,
         "Carl van Wegberg": 35,
-        "Frederik Lexfors": 23,
         "Nikolaus Meder": 1,
         "1. Akt: Fawn Arnold 2. Akt: Natascha Hill": 1,
         "Ben Kazlauskas": 50,
-        "Stephanie Tschöppe": 15,
+        "Stephanie Tschöppe": 201,
         "Tzipporah Gerson": 10,
         "John Thrower": 32,
         "Michael Nicholson": 116,
@@ -145,7 +138,7 @@
         "Andrew Chadwick": 200,
         "Peter Horemans": 688,
         "Carsten Paap": 260,
-        "Jerzy Jeszke": 491,
+        "Jerzy Jeszke": 495,
         "Bernhard Volk": 288,
         "Alexander di Capri": 118,
         "Felix Martin": 213,
@@ -183,18 +176,15 @@
         "Philipp Hägeli": 113,
         "Silvia Lambertoni": 133,
         "Veit Schäfermeier": 147,
-        "Kym Boyson": 131,
+        "Kym Boyson": 134,
         "Daniel Ruiz": 172,
         "Manuel Stoff": 105,
         "Henriette Grawwert": 105,
         "Anna-Catherina Löbbert": 1,
         "Maria Anna Russo": 47,
-        "Kym Boysen": 3,
         "Julie Newman": 79,
-        "Kelly Edwards": 73,
-        "Kelly Edwardsw": 1,
-        "Phillip Kampster": 4,
-        "Jerzy Jeske": 4
+        "Kelly Edwards": 74,
+        "Phillip Kampster": 4
     },
     "shows": {
         "31.03.2000": {
@@ -4003,7 +3993,7 @@
                     "Margherita Huisman"
                 ],
                 "Dirigent": [
-                    "Holger Koldziej"
+                    "Holger Kolodziej"
                 ]
             },
             "Nachmittag": {
@@ -4163,7 +4153,7 @@
                     "Margherita Huisman"
                 ],
                 "Dirigent": [
-                    "Holger Koldziej"
+                    "Holger Kolodziej"
                 ]
             }
         },
@@ -5350,7 +5340,7 @@
                     "Norbert Kohler"
                 ],
                 "Sarah": [
-                    "Marjan Shaki-Patzöldt"
+                    "Marjan Shaki-Pätzoldt"
                 ],
                 "Chagal": [
                     "James Sbano"
@@ -17419,7 +17409,7 @@
                 ],
                 "Solotänzer": [
                     "Dominik Büttner",
-                    "Gary Jackmann",
+                    "Gary Jackman",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Tiziana Doneda"
@@ -19665,7 +19655,7 @@
                     "Fawn Arnold"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Vanni Viscusi"
@@ -20766,7 +20756,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -20836,7 +20826,7 @@
                     "Fawn Arnold"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -20957,7 +20947,7 @@
                     "Fawn Arnold"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -21160,7 +21150,7 @@
                     "Fawn Arnold"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -21186,7 +21176,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -21211,7 +21201,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -21266,7 +21256,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -21291,7 +21281,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -21388,7 +21378,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -21414,7 +21404,7 @@
                 "Solotänzer": [
                     "Kevin Hudson",
                     "Marc Bollmeyer",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
                 ],
@@ -21429,7 +21419,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -21454,7 +21444,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -21493,7 +21483,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -21587,7 +21577,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -21612,7 +21602,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -21748,7 +21738,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -21826,7 +21816,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Peter Stassen"
@@ -21904,7 +21894,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -22022,7 +22012,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -22536,7 +22526,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Matthias Dressel"
@@ -22562,7 +22552,7 @@
                 "Solotänzer": [
                     "Kevin Hudson",
                     "Thomas Kienast",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Jacqueline van der Pol"
                 ],
                 "Dirigent": [
@@ -22884,7 +22874,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -22909,7 +22899,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -22924,7 +22914,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -22945,7 +22935,7 @@
                     "Robert D. Marx"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23002,7 +22992,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Peter Stassen"
@@ -23023,7 +23013,7 @@
                     "Robert D. Marx"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23061,7 +23051,7 @@
                     "Robert D. Marx"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23101,7 +23091,7 @@
                     "Robert D. Marx"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23118,7 +23108,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Matthias Dressel"
@@ -23139,7 +23129,7 @@
                     "Robert D. Marx"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23223,7 +23213,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -23238,7 +23228,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -23262,7 +23252,7 @@
                     "Peter Stassen"
                 ],
                 "Solotänzer": [
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Kevin Hudson",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol",
@@ -23320,7 +23310,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -23341,7 +23331,7 @@
                     "Robert D. Marx"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23355,7 +23345,7 @@
             },
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Rutger Bulsing"
@@ -23379,7 +23369,7 @@
                     "Carl van Wegberg"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23395,10 +23385,10 @@
         "04.08.2002": {
             "Abend": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Matthias Dressel"
@@ -23419,7 +23409,7 @@
                     "Robert D. Marx"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23458,7 +23448,7 @@
                     "Robert D. Marx"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23478,7 +23468,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Matthias Dressel"
@@ -23499,7 +23489,7 @@
                     "Vanni Viscusi"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23519,7 +23509,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -23540,7 +23530,7 @@
                     "Vanni Viscusi"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23560,7 +23550,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -23581,7 +23571,7 @@
                     "Carl van Wegberg"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23599,7 +23589,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -23625,7 +23615,7 @@
                 "Solotänzer": [
                     "Torsten Moll",
                     "Vanni Viscusi",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
                 ],
@@ -23640,7 +23630,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -23661,7 +23651,7 @@
                     "Espen Nowacki"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23675,7 +23665,7 @@
             },
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Thomas Klotz"
@@ -23699,7 +23689,7 @@
                     "Espen Nowacki"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -23718,7 +23708,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -23743,7 +23733,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -23783,7 +23773,7 @@
                 "Solotänzer": [
                     "Kevin Hudson",
                     "Marc Bollmeyer",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
                 ],
@@ -23798,7 +23788,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -23824,7 +23814,7 @@
                 "Solotänzer": [
                     "Kevin Hudson",
                     "Vanni Viscusi",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
                 ],
@@ -23958,7 +23948,7 @@
         "17.08.2002": {
             "Abend": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Rutger Bulsing"
@@ -24066,7 +24056,7 @@
                 "Solotänzer": [
                     "Torsten Moll",
                     "Marc Bollmeyer",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
                 ],
@@ -24144,7 +24134,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Jacqueline van der Pol"
                 ],
@@ -24184,7 +24174,7 @@
                 ],
                 "Solotänzer": [
                     "Nikolaus Meder",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -24226,7 +24216,7 @@
                 "Solotänzer": [
                     "Torsten Moll",
                     "Vanni Viscusi",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Jacqueline van der Pol",
                     "Margherita Huisman"
                 ],
@@ -24267,7 +24257,7 @@
                 "Solotänzer": [
                     "Torsten Moll",
                     "Vanni Viscusi",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Jacqueline van der Pol",
                     "Margherita Huisman"
                 ],
@@ -24481,7 +24471,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -24522,7 +24512,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -24602,7 +24592,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Peter Stassen"
@@ -24681,7 +24671,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -24722,7 +24712,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -24763,7 +24753,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -24803,7 +24793,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -24842,7 +24832,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -24877,7 +24867,7 @@
             },
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Rutger Bulsing"
@@ -24919,7 +24909,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -24999,7 +24989,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -25040,7 +25030,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -25081,7 +25071,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -25122,7 +25112,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -25163,7 +25153,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -25199,7 +25189,7 @@
             },
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Rutger Bulsing"
@@ -25243,7 +25233,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -25364,7 +25354,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -25430,7 +25420,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -25471,7 +25461,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -25512,7 +25502,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -25551,7 +25541,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -25592,7 +25582,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -25630,7 +25620,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -25646,7 +25636,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -25671,7 +25661,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -25712,7 +25702,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -25793,7 +25783,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -25834,7 +25824,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -25873,7 +25863,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -25910,7 +25900,7 @@
                     "Robert D. Marx"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -25948,7 +25938,7 @@
                     "Robert D. Marx"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -25967,7 +25957,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -25992,7 +25982,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -26008,7 +25998,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -26033,7 +26023,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -26046,10 +26036,10 @@
         "03.10.2002": {
             "Abend": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -26074,7 +26064,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -26090,7 +26080,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -26115,7 +26105,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -26131,7 +26121,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -26152,7 +26142,7 @@
                     "Robert D. Marx"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -26190,7 +26180,7 @@
                     "Robert D. Marx"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -26234,7 +26224,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -26248,7 +26238,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -26273,7 +26263,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -26289,7 +26279,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Peter Stassen"
@@ -26314,7 +26304,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Liane Maynard",
                     "Jacqueline van der Pol"
@@ -26330,7 +26320,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -26355,7 +26345,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Liane Maynard",
                     "Jacqueline van der Pol"
@@ -26371,7 +26361,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -26396,7 +26386,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -26411,7 +26401,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -26473,7 +26463,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -26488,7 +26478,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -26513,7 +26503,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -26528,7 +26518,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Peter Stassen"
@@ -26553,7 +26543,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Ben Kazlauskas",
                     "Jacqueline van der Pol"
                 ],
@@ -26591,7 +26581,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Ben Kazlauskas",
                     "Jacqueline van der Pol"
                 ],
@@ -26606,7 +26596,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Peter Stassen"
@@ -26627,7 +26617,7 @@
                     "Robert D. Marx"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -26645,7 +26635,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Peter Stassen"
@@ -26670,7 +26660,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Liane Maynard"
                 ],
@@ -26685,7 +26675,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -26710,7 +26700,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -26722,10 +26712,10 @@
         "18.10.2002": {
             "Abend": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -26750,7 +26740,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -26762,7 +26752,7 @@
         "19.10.2002": {
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Thomas Klotz"
@@ -26790,7 +26780,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Liane Maynard"
@@ -26804,7 +26794,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -26829,7 +26819,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Liane Maynard"
@@ -26845,7 +26835,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -26870,7 +26860,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -26880,7 +26870,7 @@
             },
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Thomas Klotz"
@@ -26908,7 +26898,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -27113,7 +27103,7 @@
             },
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Rutger Bulsing"
@@ -27180,7 +27170,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Ben Kazlauskas",
                     "Margherita Huisman"
                 ],
@@ -27218,7 +27208,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Ben Kazlauskas",
                     "Margherita Huisman"
                 ],
@@ -27274,7 +27264,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -27299,7 +27289,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27356,7 +27346,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -27381,7 +27371,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27397,7 +27387,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -27422,7 +27412,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27433,7 +27423,7 @@
             },
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Rutger Bulsing"
@@ -27461,7 +27451,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27477,7 +27467,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -27502,7 +27492,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27541,7 +27531,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27557,7 +27547,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -27582,7 +27572,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Jacqueline van der Pol"
                 ],
@@ -27597,7 +27587,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -27622,7 +27612,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27638,7 +27628,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -27663,7 +27653,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27679,7 +27669,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -27704,7 +27694,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Ben Kazlauskas",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27715,7 +27705,7 @@
             },
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Rutger Bulsing"
@@ -27743,7 +27733,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Ben Kazlauskas",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27759,7 +27749,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -27784,7 +27774,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Ben Kazlauskas",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27823,7 +27813,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Ben Kazlauskas",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27839,7 +27829,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -27864,7 +27854,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27880,7 +27870,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -27905,7 +27895,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27921,7 +27911,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -27946,7 +27936,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -27962,7 +27952,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -27987,7 +27977,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28003,7 +27993,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -28028,7 +28018,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28044,7 +28034,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -28069,7 +28059,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28080,7 +28070,7 @@
             },
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Rutger Bulsing"
@@ -28108,7 +28098,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28124,7 +28114,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -28149,7 +28139,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28160,7 +28150,7 @@
             },
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Rutger Bulsing"
@@ -28188,7 +28178,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28204,7 +28194,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -28229,7 +28219,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28245,7 +28235,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -28270,7 +28260,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28286,7 +28276,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -28311,7 +28301,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28352,7 +28342,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28393,7 +28383,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28432,7 +28422,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28473,7 +28463,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman"
                 ],
@@ -28511,7 +28501,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28524,10 +28514,10 @@
         "26.11.2002": {
             "Abend": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -28552,7 +28542,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Jacqueline van der Pol"
                 ],
                 "Dirigent": [
@@ -28563,10 +28553,10 @@
         "27.11.2002": {
             "Abend": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -28591,7 +28581,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -28603,10 +28593,10 @@
         "29.11.2002": {
             "Abend": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -28631,7 +28621,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -28643,10 +28633,10 @@
         "30.11.2002": {
             "Abend": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -28671,7 +28661,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -28681,7 +28671,7 @@
             },
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Christoph Trauth"
@@ -28709,7 +28699,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -28721,10 +28711,10 @@
         "28.11.2002": {
             "Abend": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -28749,7 +28739,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -28764,7 +28754,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -28789,7 +28779,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -28802,7 +28792,7 @@
                     "Ian Jon Bourg"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -28827,7 +28817,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -28867,7 +28857,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Jacqueline van der Pol"
                 ],
@@ -28882,7 +28872,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -28907,7 +28897,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -28923,7 +28913,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -29028,7 +29018,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -29067,7 +29057,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -29083,7 +29073,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Peter Stassen"
@@ -29108,7 +29098,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Liane Maynard"
@@ -29124,7 +29114,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Peter Stassen"
@@ -29149,7 +29139,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Liane Maynard"
@@ -29165,7 +29155,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Matthias Dressel"
@@ -29190,7 +29180,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman"
                 ],
@@ -29205,7 +29195,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Matthias Dressel"
@@ -29230,7 +29220,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman"
                 ],
@@ -29245,7 +29235,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -29270,7 +29260,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -29308,7 +29298,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -29323,7 +29313,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Matthias Dressel"
@@ -29348,7 +29338,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -29358,7 +29348,7 @@
             },
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
                     "Christoph Trauth"
@@ -29386,7 +29376,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -29401,7 +29391,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Peter Stassen"
@@ -29426,7 +29416,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -29442,7 +29432,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -29467,7 +29457,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -29483,7 +29473,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -29523,7 +29513,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -29562,7 +29552,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -29640,7 +29630,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -29717,7 +29707,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -29756,7 +29746,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -29797,7 +29787,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -29822,7 +29812,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -29837,7 +29827,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -29915,7 +29905,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -29993,7 +29983,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -30074,7 +30064,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -30114,7 +30104,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -30192,7 +30182,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -30293,7 +30283,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -30333,7 +30323,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -30373,7 +30363,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -30413,7 +30403,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Liane Maynard",
                     "Jacqueline van der Pol"
@@ -30614,7 +30604,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -30654,7 +30644,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -30694,7 +30684,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -30709,7 +30699,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -30734,7 +30724,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman"
                 ],
@@ -30749,7 +30739,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -30774,7 +30764,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman"
                 ],
@@ -30812,7 +30802,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman"
                 ],
@@ -30827,7 +30817,7 @@
                     "Michael Nicholson"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -30852,7 +30842,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Liane Maynard"
@@ -30891,7 +30881,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Liane Maynard"
@@ -30907,7 +30897,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -30932,7 +30922,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman",
                     "Liane Maynard"
@@ -30948,7 +30938,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -30988,7 +30978,7 @@
                     "Michael Nicholson"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -31013,7 +31003,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -31029,7 +31019,7 @@
                     "Michael Nicholson"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -31070,7 +31060,7 @@
                     "Michael Nicholson"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -31095,7 +31085,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -31134,7 +31124,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Thomas Kienast",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -31175,7 +31165,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -31189,7 +31179,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -31214,7 +31204,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -31230,7 +31220,7 @@
                     "Michael Nicholson"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -31255,7 +31245,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -31271,7 +31261,7 @@
                     "Michael Nicholson"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -31296,7 +31286,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -31312,7 +31302,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -31337,7 +31327,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -31353,7 +31343,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -31378,7 +31368,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -31419,7 +31409,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -31433,7 +31423,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Andreas Bühring"
@@ -31458,7 +31448,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -31489,7 +31479,7 @@
                     "Fawn Arnold"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -31567,7 +31557,7 @@
                     "Fawn Arnold"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -31608,7 +31598,7 @@
                     "Fawn Arnold"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -31690,7 +31680,7 @@
                     "Natascha-Cecillia Hill"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Espen Nowacki"
@@ -31731,7 +31721,7 @@
                     "Natascha-Cecillia Hill"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Espen Nowacki"
@@ -31770,7 +31760,7 @@
                     "Natascha-Cecillia Hill"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Espen Nowacki"
@@ -31811,7 +31801,7 @@
                     "Jessie Roggemann"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Carl van Wegberg"
@@ -31850,7 +31840,7 @@
                     "Jessie Roggemann"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Carl van Wegberg"
@@ -31891,7 +31881,7 @@
                     "Fawn Arnold"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -31932,7 +31922,7 @@
                     "Fawn Arnold"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -31973,7 +31963,7 @@
                     "Fawn Arnold"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -32014,7 +32004,7 @@
                     "Fawn Arnold"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -32120,7 +32110,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -32145,7 +32135,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol"
                 ],
@@ -32927,7 +32917,7 @@
                     "Michael Nicholson"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -32952,7 +32942,7 @@
                 ],
                 "Solotänzer": [
                     "Thomas Klotz",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -32968,7 +32958,7 @@
                     "Michael Nicholson"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -32993,7 +32983,7 @@
                 ],
                 "Solotänzer": [
                     "Torsten Moll",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacqueline van der Pol"
@@ -33089,7 +33079,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -33114,7 +33104,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacqueline van der Pol",
                     "Margherita Huisman"
@@ -34094,10 +34084,10 @@
             },
             "Nachmittag": {
                 "Graf von Krolock": [
-                    "Frederik Lexfors"
+                    "Fredrik Lexfors"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -34137,7 +34127,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Christian Paumgarten"
@@ -34162,7 +34152,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Margherita Huisman",
                     "Jacquie Biggs"
@@ -34703,7 +34693,7 @@
                     "Kevin Tarte"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Oliver Heim"
@@ -34796,7 +34786,7 @@
                     "Danielle Veneman"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -34836,7 +34826,7 @@
                     "Danielle Veneman"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -34876,7 +34866,7 @@
                     "Danielle Veneman"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -34916,7 +34906,7 @@
                     "Danielle Veneman"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -35200,7 +35190,7 @@
                     "Danielle Veneman"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -35240,7 +35230,7 @@
                     "Danielle Veneman"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -35279,7 +35269,7 @@
                     "Danielle Veneman"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -36012,7 +36002,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacquie Biggs"
                 ],
@@ -36296,7 +36286,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacquie Biggs",
                     "Margherita Huisman"
@@ -37137,7 +37127,7 @@
                     "Natascha-Cecillia Hill"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -37178,7 +37168,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -37217,7 +37207,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -37243,7 +37233,7 @@
                     "Michael Nicholson"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Matthias Dressel"
@@ -37268,7 +37258,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Vanni Viscusi",
                     "Jacquie Biggs",
                     "Margherita Huisman"
@@ -37338,7 +37328,7 @@
                     "Natascha-Cecillia Hill"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -37379,7 +37369,7 @@
                     "Natascha-Cecillia Hill"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Vanni Viscusi"
@@ -37420,7 +37410,7 @@
                     "Natascha-Cecillia Hill"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -37461,7 +37451,7 @@
                     "Danielle Veneman"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -37502,7 +37492,7 @@
                     "Danielle Veneman"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Carl van Wegberg"
@@ -37541,7 +37531,7 @@
                     "Danielle Veneman"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Carl van Wegberg"
@@ -37582,7 +37572,7 @@
                     "Danielle Veneman"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -37621,7 +37611,7 @@
                     "Danielle Veneman"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -38068,7 +38058,7 @@
                     "Danielle Veneman"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Robert D. Marx"
@@ -39831,7 +39821,7 @@
                     "Mathias Edenborn"
                 ],
                 "Alfred": [
-                    "Frederik Wickerts"
+                    "Fredrik Wickerts"
                 ],
                 "Professor Abronsius": [
                     "Matthias Dressel"
@@ -39856,7 +39846,7 @@
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
-                    "Stephané Le Breton",
+                    "Stéphane Le Breton",
                     "Marc Bollmeyer",
                     "Margherita Huisman"
                 ],
@@ -40860,7 +40850,7 @@
                     "Tim Reichwein"
                 ],
                 "Koukol": [
-                    "Stephané Le Breton"
+                    "Stéphane Le Breton"
                 ],
                 "Solotänzer": [
                     "Kevin Hudson",
@@ -44757,7 +44747,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -44877,7 +44867,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -45153,7 +45143,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -47487,7 +47477,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -47527,7 +47517,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -47645,7 +47635,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -47685,7 +47675,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -47765,7 +47755,7 @@
                     "Femke Soetenga"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -47805,7 +47795,7 @@
                     "Femke Soetenga"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -47843,7 +47833,7 @@
                     "Femke Soetenga"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Michel Driesse"
@@ -47923,7 +47913,7 @@
                     "Stephanie Sturm"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48003,7 +47993,7 @@
                     "Mona Graw"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Michel Driesse"
@@ -48081,7 +48071,7 @@
                     "Mona Graw"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48397,7 +48387,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48437,7 +48427,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48477,7 +48467,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48517,7 +48507,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48557,7 +48547,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48595,7 +48585,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48635,7 +48625,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48675,7 +48665,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48715,7 +48705,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48755,7 +48745,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48795,7 +48785,7 @@
                     "Femke Soetenga"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48833,7 +48823,7 @@
                     "Femke Soetenga"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Michel Driesse"
@@ -48873,7 +48863,7 @@
                     "Femke Soetenga"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48911,7 +48901,7 @@
                     "Femke Soetenga"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -48991,7 +48981,7 @@
                     "Femke Soetenga"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -49189,7 +49179,7 @@
                     "Stephanie Sturm"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Norbert Kohler"
@@ -49227,7 +49217,7 @@
                     "Stephanie Sturm"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Paul Walthaus"
@@ -52142,7 +52132,7 @@
                     "Katrin Löbbert",
                     "Bettina Oswald",
                     "Ute Geske",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Lyndsey Stokes"
                 ],
                 "Tanzensemble": [
@@ -52209,7 +52199,7 @@
                     "Katrin Löbbert",
                     "Bettina Oswald",
                     "Ute Geske",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Lyndsey Stokes"
                 ],
                 "Tanzensemble": [
@@ -53317,7 +53307,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -53435,7 +53425,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -53475,7 +53465,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -53544,7 +53534,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Paul Walthaus"
@@ -53582,7 +53572,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Paul Walthaus"
@@ -53782,7 +53772,7 @@
                     "Anna Thorén"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Michel Driesse"
@@ -54269,7 +54259,7 @@
                     "Femke Soetenga"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -54507,7 +54497,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -55222,7 +55212,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Anna-Catherina Löbbert",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Ute Geske",
                     "",
                     "Leigh-Anne Vizer",
@@ -55239,7 +55229,7 @@
                     "Phillip Kempster",
                     "Lucy Costelloe",
                     "Maria Anna Russo",
-                    "Kym Boysen",
+                    "Kym Boyson",
                     "Julie Newman",
                     ""
                 ],
@@ -55980,7 +55970,7 @@
                     "Katrin Löbbert",
                     "Henriette Grawwert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -55994,7 +55984,7 @@
                     "Phillip Kempster",
                     "Lucy Costelloe",
                     "Maria Anna Russo",
-                    "Kym Boysen",
+                    "Kym Boyson",
                     "Kelly Edwards"
                 ],
                 "Dirigent": [
@@ -56195,7 +56185,7 @@
                     "Kevin Foster",
                     "Silvano Marraffa",
                     "Leigh-Anne Vizer",
-                    "Kym Boysen"
+                    "Kym Boyson"
                 ],
                 "Dirigent": [
                     "Bernhard Volk"
@@ -57381,7 +57371,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -57565,7 +57555,7 @@
                     "Stephanie Sturm",
                     "Katrin Löbbert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -57648,7 +57638,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -58084,7 +58074,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Paul Walthaus"
@@ -58402,7 +58392,7 @@
                     "Mona Graw"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -58482,7 +58472,7 @@
                     "Femke Soetenga"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -59316,7 +59306,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -59594,7 +59584,7 @@
                     "Stephanie Sturm"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -59632,7 +59622,7 @@
                     "Stephanie Sturm"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -59752,7 +59742,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -59792,7 +59782,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -59830,7 +59820,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -61654,7 +61644,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -61692,7 +61682,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -62670,7 +62660,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Julie Newman",
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Tanzensemble": [
                     "Leigh-Anne Vizer",
@@ -62736,7 +62726,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Julie Newman",
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Tanzensemble": [
                     "Leigh-Anne Vizer",
@@ -62795,7 +62785,7 @@
                 ],
                 "Gesangsensemble": [
                     "Michel Driesse",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Max Niemeyer",
                     "Manuel Stoff",
                     "Stefan Poslovski",
@@ -62863,7 +62853,7 @@
                 ],
                 "Gesangsensemble": [
                     "Paul Walthaus",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Michel Driesse",
                     "Manuel Stoff",
                     "Max Niemeyer",
@@ -62941,7 +62931,7 @@
                     "Stephanie Sturm",
                     "Horst Kulmbrein",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -63089,7 +63079,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Tanzensemble": [
                     "Leigh-Anne Vizer",
@@ -63148,7 +63138,7 @@
                 ],
                 "Gesangsensemble": [
                     "Michel Driesse",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Stefan Poslovski",
                     "Patrick Mares",
                     "Manuel Stoff",
@@ -63226,7 +63216,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Patrick Mares"
                 ],
                 "Tanzensemble": [
@@ -63373,7 +63363,7 @@
                     "Stephanie Sturm",
                     "Patrick Mares",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Katrin Löbbert"
                 ],
                 "Tanzensemble": [
@@ -63442,7 +63432,7 @@
                     "Stephanie Sturm",
                     "Patrick Mares",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -63511,7 +63501,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Horst Kulmbrein"
                 ],
                 "Tanzensemble": [
@@ -63787,7 +63777,7 @@
                 ],
                 "Gesangsensemble": [
                     "Kati Heidebrecht",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Patrick Mares",
                     "Michel Driesse",
                     "Manuel Stoff",
@@ -63943,7 +63933,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -64003,7 +63993,7 @@
                 ],
                 "Gesangsensemble": [
                     "Philipp Hägeli",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Max Niemeyer",
                     "Horst Kulmbrein",
                     "Manuel Stoff",
@@ -64072,7 +64062,7 @@
                 ],
                 "Gesangsensemble": [
                     "Philipp Hägeli",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Max Niemeyer",
                     "Michel Driesse",
                     "Manuel Stoff",
@@ -64150,7 +64140,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Katrin Löbbert"
                 ],
                 "Tanzensemble": [
@@ -64215,7 +64205,7 @@
                     "Mona Graw",
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -64275,7 +64265,7 @@
                 ],
                 "Gesangsensemble": [
                     "Paul Walthaus",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Philipp Hägeli",
                     "Stefan Poslovski",
                     "Manuel Stoff",
@@ -64353,7 +64343,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Katrin Löbbert"
                 ],
                 "Tanzensemble": [
@@ -64422,7 +64412,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Julie Newman"
                 ],
                 "Tanzensemble": [
@@ -64437,7 +64427,7 @@
                     "Lucy Costelloe",
                     "Silvia Lambertoni",
                     "Kym Boyson",
-                    "Kelly Edwardsw"
+                    "Kelly Edwards"
                 ],
                 "Dirigent": [
                     "Carsten Paap"
@@ -64491,7 +64481,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Katrin Löbbert",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Max Niemeyer"
                 ],
                 "Tanzensemble": [
@@ -64558,7 +64548,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Tanzensemble": [
                     "Leigh-Anne Vizer",
@@ -64617,7 +64607,7 @@
                 ],
                 "Gesangsensemble": [
                     "Paul Walthaus",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Patrick Mares",
                     "Michel Driesse",
                     "Max Niemeyer",
@@ -64686,7 +64676,7 @@
                 ],
                 "Gesangsensemble": [
                     "Paul Walthaus",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Patrick Mares",
                     "Michel Driesse",
                     "Max Niemeyer",
@@ -64764,7 +64754,7 @@
                     "Mona Graw",
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Katrin Löbbert"
                 ],
                 "Tanzensemble": [
@@ -64832,7 +64822,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -64900,7 +64890,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -64971,7 +64961,7 @@
                     "Stephanie Sturm",
                     "Katrin Löbbert",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Patrick Mares"
                 ],
                 "Tanzensemble": [
@@ -65040,7 +65030,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -65109,7 +65099,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -65169,7 +65159,7 @@
                 ],
                 "Gesangsensemble": [
                     "Paul Walthaus",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Stefan Poslovski",
                     "Michel Driesse",
                     "Philipp Hägeli",
@@ -65246,7 +65236,7 @@
                     "Lillemor Spitzer",
                     "Katrin Löbbert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -65315,7 +65305,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Katrin Löbbert"
                 ],
                 "Tanzensemble": [
@@ -65381,7 +65371,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Katrin Löbbert"
                 ],
                 "Tanzensemble": [
@@ -65510,7 +65500,7 @@
                 ],
                 "Gesangsensemble": [
                     "Paul Walthaus",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Patrick Mares",
                     "Michel Driesse",
                     "Manuel Stoff",
@@ -65588,7 +65578,7 @@
                     "Katrin Löbbert",
                     "Lillemor Spitzer",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Wolf Bader"
                 ],
                 "Tanzensemble": [
@@ -65658,7 +65648,7 @@
                     "Lillemor Spitzer",
                     "Henriette Grawwert",
                     "Katrin Löbbert",
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Tanzensemble": [
                     "Leigh-Anne Vizer",
@@ -65700,7 +65690,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -65767,7 +65757,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -65922,7 +65912,7 @@
                 ],
                 "Gesangsensemble": [
                     "Paul Walthaus",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Patrick Mares",
                     "Michel Driesse",
                     "Manuel Stoff",
@@ -66000,7 +65990,7 @@
                     "Lillemor Spitzer",
                     "Henriette Grawwert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -66060,7 +66050,7 @@
                 ],
                 "Gesangsensemble": [
                     "Philipp Hägeli",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Stefan Poslovski",
                     "Michel Driesse",
                     "Manuel Stoff",
@@ -66129,7 +66119,7 @@
                 ],
                 "Gesangsensemble": [
                     "Paul Erkamp",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Max Niemeyer",
                     "Patrick Mares",
                     "Stefan Poslovski",
@@ -66196,7 +66186,7 @@
                 ],
                 "Gesangsensemble": [
                     "Paul Erkamp",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Patrick Mares",
                     "Manuel Stoff",
                     "Kati Heidebrecht",
@@ -66263,7 +66253,7 @@
                 ],
                 "Gesangsensemble": [
                     "Philipp Hägeli",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Kati Heidebrecht",
                     "Manuel Stoff",
                     "Max Niemeyer",
@@ -66337,7 +66327,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Kati Heidebrecht"
                 ],
                 "Tanzensemble": [
@@ -66406,7 +66396,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Lillemor Spitzer"
                 ],
                 "Tanzensemble": [
@@ -66476,7 +66466,7 @@
                     "Stephanie Sturm",
                     "Katrin Löbbert",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -66546,7 +66536,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Katrin Löbbert",
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Tanzensemble": [
                     "Kym Boyson",
@@ -66613,7 +66603,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Kati Heidebrecht",
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Tanzensemble": [
                     "Kym Boyson",
@@ -66649,7 +66639,7 @@
                     "Jessica Kessler"
                 ],
                 "Chagal": [
-                    "Jerzy Jeske"
+                    "Jerzy Jeszke"
                 ],
                 "Magda": [
                     "Franziska Forster"
@@ -66718,7 +66708,7 @@
                     "Jessica Kessler"
                 ],
                 "Chagal": [
-                    "Jerzy Jeske"
+                    "Jerzy Jeszke"
                 ],
                 "Magda": [
                     "Mona Graw"
@@ -66787,7 +66777,7 @@
                     "Jessica Kessler"
                 ],
                 "Chagal": [
-                    "Jerzy Jeske"
+                    "Jerzy Jeszke"
                 ],
                 "Magda": [
                     "Franziska Forster"
@@ -66922,7 +66912,7 @@
                     "Sonja Schatz"
                 ],
                 "Chagal": [
-                    "Jerzy Jeske"
+                    "Jerzy Jeszke"
                 ],
                 "Magda": [
                     "Franziska Forster"
@@ -67012,7 +67002,7 @@
                 ],
                 "Gesangsensemble": [
                     "Paul Walthaus",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Stefan Poslovski",
                     "Michel Driesse",
                     "Manuel Stoff",
@@ -67082,7 +67072,7 @@
                 ],
                 "Gesangsensemble": [
                     "Philipp Hägeli",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Paul Walthaus",
                     "Michel Driesse",
                     "Manuel Stoff",
@@ -67160,7 +67150,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -67227,7 +67217,7 @@
                     "Mona Graw",
                     "Lillemor Spitzer",
                     "Patrick Mares",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -67294,7 +67284,7 @@
                     "Patrick Mares",
                     "Henriette Grawwert",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -67337,7 +67327,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -67407,7 +67397,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -67502,7 +67492,7 @@
                     "Julie Newman",
                     "Katrin Löbbert",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -67545,7 +67535,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -67640,7 +67630,7 @@
                     "Lillemor Spitzer",
                     "Julie Newman",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -67709,7 +67699,7 @@
                     "Lillemor Spitzer",
                     "Sonja Schatz",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Stephanie Sturm"
                 ],
                 "Tanzensemble": [
@@ -67776,7 +67766,7 @@
                     "Lillemor Spitzer",
                     "Sonja Schatz",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Tanzensemble": [
                     "Leigh-Anne Vizer",
@@ -67818,7 +67808,7 @@
                     "Stephanie Sturm"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -67911,7 +67901,7 @@
                     "Mona Graw",
                     "Kati Heidebrecht",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -67980,7 +67970,7 @@
                     "Mona Graw",
                     "Lillemor Spitzer",
                     "Katrin Löbbert",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Kati Heidebrecht"
                 ],
                 "Tanzensemble": [
@@ -68041,7 +68031,7 @@
                 ],
                 "Gesangsensemble": [
                     "Paul Walthaus",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Max Niemeyer",
                     "Manuel Stoff",
                     "Patrick Mares",
@@ -68117,7 +68107,7 @@
                     "Stephanie Sturm",
                     "Max Niemeyer",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Katrin Löbbert"
                 ],
                 "Tanzensemble": [
@@ -68184,7 +68174,7 @@
                     "Stephanie Sturm",
                     "Horst Kulmbrein",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -68253,7 +68243,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Patrick Mares",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Katrin Löbbert"
                 ],
                 "Tanzensemble": [
@@ -68323,7 +68313,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Katrin Löbbert",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -68390,7 +68380,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Julie Newman",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Katrin Löbbert"
                 ],
                 "Tanzensemble": [
@@ -68459,7 +68449,7 @@
                     "Mona Graw",
                     "Lillemor Spitzer",
                     "Katrin Löbbert",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -68526,7 +68516,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Julie Newman",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -68664,7 +68654,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Katrin Löbbert",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Lillemor Spitzer"
                 ],
                 "Tanzensemble": [
@@ -68734,7 +68724,7 @@
                     "Katrin Löbbert",
                     "Henriette Grawwert",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Tanzensemble": [
                     "Leigh-Anne Vizer",
@@ -68802,7 +68792,7 @@
                     "Katrin Löbbert",
                     "Henriette Grawwert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -68845,7 +68835,7 @@
                     "Femke Soetenga"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -68931,7 +68921,7 @@
                 ],
                 "Gesangsensemble": [
                     "Michel Driesse",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Paul Walthaus",
                     "Patrick Mares",
                     "Manuel Stoff",
@@ -68998,7 +68988,7 @@
                 ],
                 "Gesangsensemble": [
                     "Michel Driesse",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Paul Walthaus",
                     "Patrick Mares",
                     "Manuel Stoff",
@@ -69076,7 +69066,7 @@
                     "Stephanie Sturm",
                     "Kati Heidebrecht",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Wolf Bader"
                 ],
                 "Tanzensemble": [
@@ -69145,7 +69135,7 @@
                     "Lillemor Spitzer",
                     "Henriette Grawwert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Patrick Mares"
                 ],
                 "Tanzensemble": [
@@ -69188,7 +69178,7 @@
                     "Femke Soetenga"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -69257,7 +69247,7 @@
                     "Femke Soetenga"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -69325,7 +69315,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Tim Reichwein"
@@ -69421,7 +69411,7 @@
                     "Mona Graw",
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Tanzensemble": [
                     "Leigh-Anne Vizer",
@@ -69488,7 +69478,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -69558,7 +69548,7 @@
                     "Lillemor Spitzer",
                     "Henriette Grawwert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Kati Heidebrecht"
                 ],
                 "Tanzensemble": [
@@ -69627,7 +69617,7 @@
                     "Julie Newman",
                     "Henriette Grawwert",
                     "Lillemor Spitzer",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -69670,7 +69660,7 @@
                     "Franziska Forster"
                 ],
                 "Rebecca": [
-                    "Stephanie H. Tschöppe"
+                    "Stephanie Tschöppe"
                 ],
                 "Herbert": [
                     "Paul Walthaus"
@@ -69765,7 +69755,7 @@
                     "Stephanie Sturm",
                     "Lillemor Spitzer",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -69834,7 +69824,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -69894,7 +69884,7 @@
                 ],
                 "Gesangsensemble": [
                     "Paul Erkamp",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Horst Kulmbrein",
                     "Patrick Mares",
                     "Michel Driesse",
@@ -69961,7 +69951,7 @@
                 ],
                 "Gesangsensemble": [
                     "Paul Erkamp",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Horst Kulmbrein",
                     "Michel Driesse",
                     "Wolf Bader",
@@ -70038,7 +70028,7 @@
                     "Stephanie Sturm",
                     "Henriette Grawwert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
@@ -70105,7 +70095,7 @@
                     "Lillemor Spitzer",
                     "Katrin Löbbert",
                     "Femke Soetenga",
-                    "Stephanie H. Tschöppe",
+                    "Stephanie Tschöppe",
                     "Sonja Schatz"
                 ],
                 "Tanzensemble": [
