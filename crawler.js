@@ -216,6 +216,10 @@ var crawler = new Crawler({
                 return actor;
             });
 
+            if (actors.length === 1 && actors[0] === '1. Akt: Fawn Arnold 2. Akt: Natascha Hill') {
+                actors = ['Fawn Arnold', 'Natascha-Cecillia Hill'];
+            }
+
             data["roles"][role] = (data["roles"][role] + 1) || 1;
             actors.forEach((actor) => {
                 data["actors"][actor] = (data["actors"][actor] + 1) || 1;
