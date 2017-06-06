@@ -32,7 +32,7 @@ const stmtCast = db.prepare(`
 const getShow = showId => {
     const show = stmtShow.getAsObject({ ':showId': showId });
     return {
-        'day': show['DAY'],
+        'day': moment(show['DAY'], 'YYYY-MM-DD').format('DD.MM.YYYY'),
         'time': show['TIME'],
         'type': show['TYPE'],
         'production': show['PRODUCTION_ID'],
