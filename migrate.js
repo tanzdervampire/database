@@ -12,7 +12,6 @@ const stmtShow = db.prepare(`
         DATE( "SHOW".DAY ) AS DAY,
         "SHOW".TIME AS TIME,
         "SHOW".TYPE AS TYPE,
-        "PRODUCTION".ID AS PRODUCTION_ID,
         "PRODUCTION".LOCATION AS LOCATION,
         "PRODUCTION".THEATER AS THEATER
     FROM "SHOW"
@@ -35,7 +34,6 @@ const getShow = showId => {
         'day': moment(show['DAY'], 'YYYY-MM-DD').format('DD.MM.YYYY'),
         'time': show['TIME'],
         'type': show['TYPE'],
-        'production': show['PRODUCTION_ID'],
         'location': show['LOCATION'],
         'theater': show['THEATER'],
     };
